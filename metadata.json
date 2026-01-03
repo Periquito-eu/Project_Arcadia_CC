@@ -1,0 +1,5 @@
+{
+  "name": "Project Arcadia - Character Creator",
+  "description": "A medieval fantasy character creation tool for Project Arcadia, featuring skill allocation, radar charts, and character export capabilities.",
+  "requestFramePermissions": []
+}
